@@ -1,0 +1,1 @@
+# Solução teste com python, depois eu arrumo esse readme
