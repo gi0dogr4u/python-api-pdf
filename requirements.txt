@@ -12,6 +12,7 @@ frozendict==2.3.4
 html5lib==1.1
 idna==3.4
 importlib-resources==5.10.2
+kaleido==0.2.1
 kiwisolver==1.4.4
 lxml==4.9.2
 matplotlib==3.7.0
